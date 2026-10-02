@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+<rect width="900" height="180" rx="20" fill="#f5f5f5"/>
+<text x="40" y="55" font-family="Arial" font-size="28" font-weight="bold">SOFTWARE QA TESTER</text>
+<text x="40" y="100" font-family="Arial" font-size="22">Manual Testing   |   Bug Reporting   |   Web QA</text>
+<text x="40" y="140" font-family="Arial" font-size="22">Responsive Testing   |   API Testing   |   Test Analysis</text>
+</svg>
