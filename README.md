@@ -53,16 +53,16 @@ My testing experience includes web and game testing, with a focus on finding def
 > These are portfolio/demo bugs created for demonstration and are not claims about defects in an employer's product.
 
 ### 📊 Test Reporting
-- [Sample Test Report](test-reports/sample-test-report.md)
+- [Sample Test Report](sample-test-report.md)
 
 ### 🔌 API Testing
-- [API Test Scenarios](api-testing/sample-api-tests.md)
+- [API Test Scenarios](sample-api-tests.md)
 
 ### 📑 Spreadsheet Testing
-- [Spreadsheet Test Scenarios](spreadsheet-testing/spreadsheet-test-scenarios.md)
+- [Spreadsheet Test Scenarios](spreadsheet-test-scenarios.md)
 
 ### 🤖 QA Code Example
-- [Python Validation Example](automation/sample_test.py)
+- [Python Validation Example](sample_test.py)
 
 ## 🔍 My Testing Approach
 
