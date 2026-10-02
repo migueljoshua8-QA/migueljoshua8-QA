@@ -1,6 +1,6 @@
 # Joshua Miguel Custodio — Software QA Tester Portfolio
 
-![QA Portfolio Banner](assets/qa-portfolio-banner.svg)
+![QA Portfolio Banner](qa-portfolio-banner.svg)
 
 > A GitHub portfolio demonstrating my approach to manual software testing, web QA, test-case design, bug reporting, responsive testing, API testing, and continuous improvement.
 
