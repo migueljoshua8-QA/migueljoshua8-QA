@@ -46,9 +46,9 @@ My testing experience includes web and game testing, with a focus on finding def
 - [Checkout Test Cases](checkout-test-cases.md)
 
 ### 🐞 Bug Reports
-- [BUG-001 — Login Button Unresponsive](bug-reports/BUG-001-login-button.md)
-- [BUG-002 — Invalid Email Validation](bug-reports/BUG-002-invalid-email.md)
-- [BUG-003 — Mobile Layout Overflow](bug-reports/BUG-003-mobile-layout.md)
+- [BUG-001 — Login Button Unresponsive](BUG-001-login-button.md)
+- [BUG-002 — Invalid Email Validation](BUG-002-invalid-email.md)
+- [BUG-003 — Mobile Layout Overflow](BUG-003-mobile-layout.md)
 
 > These are portfolio/demo bugs created for demonstration and are not claims about defects in an employer's product.
 
