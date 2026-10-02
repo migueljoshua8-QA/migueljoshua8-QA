@@ -23,7 +23,7 @@ The Login button does not respond and the user remains on the login page.
 5/5 attempts.
 
 ## Evidence
-See `assets/bug-screenshots/BUG-001-placeholder.md`.
+See `BUG-001.png`.
 
 ## Suggested Investigation
 Check the click handler, form submission event, client-side validation state, and network request triggered after clicking Login.
