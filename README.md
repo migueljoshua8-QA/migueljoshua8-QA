@@ -41,9 +41,9 @@ My testing experience includes web and game testing, with a focus on finding def
 ## 📂 Portfolio
 
 ### 📝 Test Cases
-- [Login Test Cases](test-cases/login-test-cases.md)
-- [Registration Test Cases](test-cases/registration-test-cases.md)
-- [Checkout Test Cases](test-cases/checkout-test-cases.md)
+- [Login Test Cases](login-test-cases.md)
+- [Registration Test Cases](registration-test-cases.md)
+- [Checkout Test Cases](checkout-test-cases.md)
 
 ### 🐞 Bug Reports
 - [BUG-001 — Login Button Unresponsive](bug-reports/BUG-001-login-button.md)
