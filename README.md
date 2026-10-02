@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Postman and Playwright**
 
-- 💬 Ask me about **Manual Testing for Website and mobile games.**
+- 💬 Ask me about **Manual Testing for websites and mobile games.**
 
 - 📫 How to reach me **migueljoshua8@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/jcustodio/Downloads/Profile.pdf](file:///C:/Users/jcustodio/Downloads/Profile.pdf)
 
-- ⚡ Fun fact **I workout everyday for mental health and become physically healthy**
+- ⚡ Fun fact **I work out every day for mental health and to become physically healthy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
